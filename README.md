@@ -27,4 +27,37 @@
     - Many primary database servers
 
 ## Sharding
+Hortizontal partition of databases into different servers
+
+- MongoDB
+- Cassandra - Ring
+
+## ACID Compliance
+
+- Atomicity
+- Consistency = Correctness
+- Isolation
+- Durability
+
+## CAP Theory
+
+Consistency
+Availability
+Partition tolerance
+
+## Caching
+
+## CDN
+
+## Resiliency 
+
+Keep data in different rack, data center, availability zones, region etc. 
+Tradeoffs - cost
+
+## Distributed storage
+- Scalable
+- Highly available
+- Secure
+- Durable
+
 
